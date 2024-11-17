@@ -1,6 +1,6 @@
 module video-streaming-server-golang
 
-go 1.22.2
+go 1.19
 
 require (
 	google.golang.org/grpc v1.64.0
